@@ -1,0 +1,13 @@
+.resume tr td {
+	border: 1px solid white;
+    padding:5px;
+}
+.resume tr th {
+    padding: 3px;
+	border: 1px solid white;
+}
+.resume {
+	border-collapse: collapse;
+    color:white;
+
+}
