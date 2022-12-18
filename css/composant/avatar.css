@@ -1,0 +1,11 @@
+.avatar {
+    width: 100%;
+    height: 30%;
+    border-radius: 50%;
+    border:solid 2px;
+}
+.titreLo img {
+    width: 20%;
+    height: auto;
+    margin:10px;
+}
