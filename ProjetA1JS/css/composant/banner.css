@@ -1,9 +1,0 @@
-.accueil{
-    background-image: url("../../images/fond_accueil.jpg");
-    display:flex;
-    padding:20px;
-    border-radius: 30%;
-    height: 50%;
-    width:75%;
-
-}
